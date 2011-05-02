@@ -1,4 +1,4 @@
-THE WORLD IS SPIKY
+[THE WORLD IS SPIKY](http://spiky.egd.im)
 ======
 Introduction
 ---------
@@ -6,6 +6,9 @@ Thomas Friedman argued in 2005 that globalization and innovation had made the wo
 About the Project
 -------
 *The World Is Spiky* was the winning Visuals entry for the 3Taps Hackathon in San Francisco on April 30th. The project was created over a few hours and relies on 3taps' (awesome) api for its data. We use Javascript and WebGL - the project doesn't need to be run on a server, but it does require a very new version of either Chrome, Firefox, or Webkit. It has not been extensively tested or optimized, and is currently more art than technique.
+Usage
+-----
+*The World Is Spiky* can be run anywhere - just clone the repo and open index.html in a capable browser.
 Credits
 ------
 - Concept/3D/Style: Gon Zifroni (@gonzif)
